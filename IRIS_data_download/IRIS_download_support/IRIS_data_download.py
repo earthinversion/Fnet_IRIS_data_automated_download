@@ -1,7 +1,7 @@
 from obspy.clients.fdsn import Client #import Client
 from datetime import datetime as dt
 from obspy.core import UTCDateTime
-from obspy import read  
+from obspy import read, read_inventory
 
 client = Client("IRIS")
 import matplotlib.pyplot as plt
@@ -10,13 +10,13 @@ plt.style.use("seaborn")
 now = dt.now()
 
 daylag = 0 #number of days of lag
-hourdiff = 11 #greater than 1
-print(now)
+hourdiff = 9 #greater than 1
 # starttime = UTCDateTime(now-daylag)
 # endtime = UTCDateTime(now)
 starttime = UTCDateTime(now.strftime("%Y/%m/{},{}:%M:%S".format(now.day - (daylag),now.hour-hourdiff)))
 endtime = UTCDateTime(now.strftime("%Y/%m/{},{}:%M:%S".format(now.day,now.hour-(hourdiff-1))))
 print("current Time: {}".format(UTCDateTime(now.strftime("%Y/%m/{},{}:%M:%S".format(now.day,now.hour)))))
+print(f"Hour lag: {hourdiff}")
 print("starttime: {}; endtime: {}".format(starttime,endtime))
 
 network = "IU"
@@ -24,16 +24,21 @@ station = "ANMO"
 location = "00"
 component = "BH?"
 data_filename = f"{network}_{station}_{location}_{component}.mseed"
-
+inventoryfile = f"{network}_{station}_{location}_{component}.xml"
 try:
     ## retrieve data info
     stream = client.get_waveforms(network, station, location, component, starttime, endtime,attach_response=True)
-    stream.remove_response(output="DISP") #"VEL" #remove response
-    stream.detrend('linear') #detrend
+    invt = client.get_stations(starttime = starttime, endtime=endtime, network=network, station=station, channel=component,level="response")
+    invt.write(inventoryfile, 'STATIONXML')
 
     ## save data to MSEED file
     stream.write(data_filename, format="MSEED") 
+
+    ## Read data
     st = read(data_filename) 
+    inv = read_inventory(inventoryfile)
+    st.remove_response(inventory=inv,output="DISP") #"VEL" #remove response
+    st.detrend('linear') #detrend
 
     sps = st[0].stats.sampling_rate
     print(f"Sampling rate is {sps}")
