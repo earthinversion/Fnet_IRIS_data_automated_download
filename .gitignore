@@ -4,3 +4,8 @@ IRIS_data_download/*.xml
 FNET_data_download/config.py
 *.pyc
 *.mseed
+.DS_Store
+FNET_data_download/config.py
+.DS_Store
+FNET_data_download/logfile.txt
+FNET_data_download/geckodriver.log
