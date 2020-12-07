@@ -1595,3 +1595,261 @@ Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
 1574595871191	Marionette	INFO	Stopped listening on port 56944
+1607336722918	geckodriver	INFO	Listening on 127.0.0.1:47093
+1607336722922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek53zQl"
+
+(firefox:12714): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607336731357	Marionette	INFO	Listening on port 37227
+1607336731468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607336873732	geckodriver	INFO	Listening on 127.0.0.1:45481
+1607336873735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerNQnTu"
+
+(firefox:13414): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607336882132	Marionette	INFO	Listening on port 40043
+1607336882177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607336948660	geckodriver	INFO	Listening on 127.0.0.1:36645
+1607336948664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGELmOI"
+
+(firefox:14109): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607336957552	Marionette	INFO	Listening on port 38649
+1607336957612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607337345386	geckodriver	INFO	Listening on 127.0.0.1:59787
+1607337345391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTkPfbM"
+
+(firefox:15451): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607337353894	Marionette	INFO	Listening on port 33643
+1607337353931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607337354273	Marionette	INFO	Stopped listening on port 33643
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1190: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1607337356772	geckodriver	INFO	Listening on 127.0.0.1:48877
+1607337356777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyuXay2"
+
+(firefox:15820): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607337365228	Marionette	INFO	Listening on port 46803
+1607337365322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607337365828	Marionette	INFO	Stopped listening on port 46803
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1190: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1607337366240	geckodriver	INFO	Listening on 127.0.0.1:43349
+1607337366243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTxSzm5"
+Exiting due to channel error.
+Exiting due to channel error.
+1607337394978	geckodriver	INFO	Listening on 127.0.0.1:49449
+1607337394982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemwHx6f"
+
+(firefox:16554): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607337403740	Marionette	INFO	Listening on port 44361
+1607337403823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607337412408	Marionette	INFO	Stopped listening on port 44361
+1607337431878	geckodriver	INFO	Listening on 127.0.0.1:52945
+1607337431881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexsgjjY"
+
+(firefox:17033): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607337440326	Marionette	INFO	Listening on port 33179
+1607337440425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607337442006	Marionette	INFO	Stopped listening on port 33179
+1607337442426	geckodriver	INFO	Listening on 127.0.0.1:51449
+1607337442429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVFue2c"
+
+(firefox:17397): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607337450847	Marionette	INFO	Listening on port 46075
+1607337450980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607337452991	Marionette	INFO	Stopped listening on port 46075
+1607337453426	geckodriver	INFO	Listening on 127.0.0.1:37111
+1607337453429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLEUDwD"
+1607337474791	geckodriver	INFO	Listening on 127.0.0.1:58203
+1607337474796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVhwXeV"
+
+(firefox:17942): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607337483222	Marionette	INFO	Listening on port 42399
+1607337483341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607337733769	geckodriver	INFO	Listening on 127.0.0.1:50563
+1607337733772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefpXNgJ"
+
+(firefox:18778): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607337742664	Marionette	INFO	Listening on port 43747
+1607337742719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+JavaScript error: https://www.fnet.bosai.go.jp/auth/dataget/?LANG=ja, line 15: TypeError: $(...).lightBox is not a function
+1607338198405	geckodriver	INFO	Listening on 127.0.0.1:42243
+1607338198409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebayGgI"
+
+(firefox:19765): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338206974	Marionette	INFO	Listening on port 42915
+1607338207053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607338309932	geckodriver	INFO	Listening on 127.0.0.1:43671
+1607338309937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekjfOxO"
+
+(firefox:20365): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338318362	Marionette	INFO	Listening on port 46445
+1607338318483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607338415073	Marionette	INFO	Stopped listening on port 42915
+1607338415103	Marionette	INFO	Stopped listening on port 38649
+1607338415116	Marionette	INFO	Stopped listening on port 37227
+1607338415118	Marionette	INFO	Stopped listening on port 46445
+1607338415134	Marionette	INFO	Stopped listening on port 40043
+1607338415190	Marionette	INFO	Stopped listening on port 42399
+1607338415204	Marionette	INFO	Stopped listening on port 43747
+1607338417928	geckodriver	INFO	Listening on 127.0.0.1:44421
+1607338417933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFcxsiO"
+
+(firefox:20997): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338426311	Marionette	INFO	Listening on port 36947
+1607338426381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607338505577	geckodriver	INFO	Listening on 127.0.0.1:33537
+1607338505582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7znqrU"
+
+(firefox:21520): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338514384	Marionette	INFO	Listening on port 40453
+1607338514423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607338518880	Marionette	INFO	Stopped listening on port 40453
+1607338519297	geckodriver	INFO	Listening on 127.0.0.1:57911
+1607338519301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJndWus"
+
+(firefox:21919): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338528307	Marionette	INFO	Listening on port 44555
+1607338528340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1607338555936	geckodriver	INFO	Listening on 127.0.0.1:37237
+1607338555939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejGwWsx"
+
+(firefox:22365): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338564357	Marionette	INFO	Listening on port 35207
+1607338564481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607338568799	Marionette	INFO	Stopped listening on port 35207
+1607338569208	geckodriver	INFO	Listening on 127.0.0.1:56683
+1607338569211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCvCJPh"
+
+(firefox:22740): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338577963	Marionette	INFO	Listening on port 45685
+1607338578058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607338582983	Marionette	INFO	Stopped listening on port 45685
+1607338583404	geckodriver	INFO	Listening on 127.0.0.1:47733
+1607338583408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8rR6WK"
+1607338628222	geckodriver	INFO	Listening on 127.0.0.1:53543
+1607338628226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Zz2s5"
+
+(firefox:23326): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338637267	Marionette	INFO	Listening on port 38385
+1607338637367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607338641768	Marionette	INFO	Stopped listening on port 38385
+1607338642181	geckodriver	INFO	Listening on 127.0.0.1:34261
+1607338642184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilercyL8Z"
+
+(firefox:23702): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338651224	Marionette	INFO	Listening on port 37089
+1607338651323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607338655724	Marionette	INFO	Stopped listening on port 37089
+1607338656141	geckodriver	INFO	Listening on 127.0.0.1:47061
+1607338656144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehGi8B9"
+
+(firefox:24087): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607338664689	Marionette	INFO	Listening on port 37209
+1607338664791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607338699200	Marionette	INFO	Stopped listening on port 37209
+1607338699624	geckodriver	INFO	Listening on 127.0.0.1:59777
+1607338699627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePlTYcL"
+Exiting due to channel error.
+Exiting due to channel error.
+1607339185151	geckodriver	INFO	Listening on 127.0.0.1:52727
+1607339185156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee1oqy6"
+
+(firefox:27154): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607339193965	Marionette	INFO	Listening on port 32859
+1607339193996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607339228435	Marionette	INFO	Stopped listening on port 32859
+1607339228873	geckodriver	INFO	Listening on 127.0.0.1:57877
+1607339228877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMMngH"
+
+(firefox:27552): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607339237336	Marionette	INFO	Listening on port 42477
+1607339237425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://utpal:9934036404@www.fnet.bosai.go.jp/auth/dataget/?LANG=en, line 15: TypeError: $(...).lightBox is not a function
+1607339239290	Marionette	INFO	Stopped listening on port 42477
