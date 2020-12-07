@@ -1,4 +1,4 @@
-name: wuCheng
+name: fnetdata
 channels:
   - conda-forge
   - defaults
@@ -40,5 +40,5 @@ dependencies:
   - wheel=0.33.6=py37_0
   - xz=5.2.4=h1de35cc_1001
   - zlib=1.2.11=h0b31af3_1006
-prefix: /Users/utpalkumar50/miniconda3/envs/wuCheng
+prefix: /Users/utpalkumar50/miniconda3/envs/fnetdata
 

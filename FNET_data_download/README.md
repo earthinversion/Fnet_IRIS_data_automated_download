@@ -14,9 +14,9 @@ pip install -r requirements.txt
 
 For conda environment:
 ```
-conda env create --file requirements.txt
+conda create --name fnetdata --file requirements.txt
 ```
-or 
+or for MacOS
 ```
 conda env create -f environment.yml
 ```

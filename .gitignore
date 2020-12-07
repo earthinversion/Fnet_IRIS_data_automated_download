@@ -1,3 +1,4 @@
 push_github.sh
 IRIS_data_download/*.mseed
 IRIS_data_download/*.xml
+FNET_data_download/config.py
