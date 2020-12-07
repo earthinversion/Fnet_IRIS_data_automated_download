@@ -1,3 +1,0 @@
---> Working on File 1/84, Station: ABU, Component: BHZ
-----> Successful download: ABU_BHZ_20000101120000_20000101131000.mseed
---> Working on File 1/84, Station: ABU, Component: BHN
