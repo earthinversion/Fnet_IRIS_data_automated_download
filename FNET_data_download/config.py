@@ -1,7 +1,10 @@
 import os
 
 sysvar = os.environ
-user = sysvar["fnetUSER"]
-passwd = sysvar["fnetPWD"]
-# user="utpalkmr"
-# passwd="*******"
+
+try:
+    user = sysvar["fnetUSER"]
+    passwd = sysvar["fnetPWD"]
+except:
+    user="utpalkmr"
+    passwd="*******"
