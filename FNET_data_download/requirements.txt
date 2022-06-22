@@ -3,7 +3,7 @@ cffi==1.13.2
 chardet==3.0.4
 cryptography==2.8
 idna==2.8
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.3
 pycparser==2.19
 pyOpenSSL==19.0.0
